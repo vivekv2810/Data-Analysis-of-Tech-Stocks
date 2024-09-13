@@ -56,3 +56,6 @@ This project performs a comprehensive data analysis on a dataset of stock inform
 - **Daily Returns**: Calculated and plotted
 - **Correlation Matrix**: Computed and visualized
 - **Candlestick Chart**: Created for detailed price movement visualization
+
+## Screenshots
+

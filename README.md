@@ -63,3 +63,10 @@ This project performs a comprehensive data analysis on a dataset of stock inform
 
 ![image](https://github.com/user-attachments/assets/423b2fbf-c96c-4132-8c9f-b1f23b6e799e)
 
+![image](https://github.com/user-attachments/assets/df603756-9254-4e0d-a2b2-5d364f591dfa)
+
+![image](https://github.com/user-attachments/assets/f988681e-6115-4147-81fa-be81bf84ec0d)
+
+![image](https://github.com/user-attachments/assets/9b4dfcce-8da6-40ac-8d05-985522af1285)
+
+![image](https://github.com/user-attachments/assets/c47ab5ef-bb12-43aa-89a2-b1f9c2b17a0c)

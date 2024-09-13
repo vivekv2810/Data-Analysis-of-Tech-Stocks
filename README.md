@@ -59,3 +59,7 @@ This project performs a comprehensive data analysis on a dataset of stock inform
 
 ## Screenshots
 
+![image](https://github.com/user-attachments/assets/15d6817c-5f61-4965-aa32-bff9bfe2998a)
+
+![image](https://github.com/user-attachments/assets/423b2fbf-c96c-4132-8c9f-b1f23b6e799e)
+
